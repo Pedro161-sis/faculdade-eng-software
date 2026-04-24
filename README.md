@@ -7,6 +7,7 @@ Repositório para organizar minha evolução durante a faculdade.
 - **Unidade 1 - Aula 1:** Introdução ao CSS.
 - Entendendo como estilizar páginas e adaptar para diferentes tamanhos de tela (celular, tablet e PC).
 - **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades.
+- **Unidade 1 - Aula 3:** Princípios do Web design responsivo.
 
 ## 🚀 Tecnologias
 - HTML5
