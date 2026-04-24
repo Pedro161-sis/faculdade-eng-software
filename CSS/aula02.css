@@ -1,0 +1,47 @@
+/* Reset básico para o site de moda */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1,6;
+    background-color: #fafafa;
+    color: #333;
+    text-align: center;
+}
+
+/* Navegação Única (Item 6 do seu checklist) */
+nav {
+    background-color: #222;
+    padding: 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+/* ---TEMA DA AULA: PSEUDOCLASSES ---*/
+
+/* Quando o mouse passa no link */
+nav a:hover {
+    color: #ff69b4; /* Rosa Fashion */
+    border:-bottom: 2px solid #ff69b4;
+}
+
+/* Quando o link é clicado */
+nav a:active {
+    color: white;
+}
+
+/* Estilizando o primeiro parágrafo de cada seção */
+section p:first-of-type {
+    font-weight: bold;
+    color: #555;
+}

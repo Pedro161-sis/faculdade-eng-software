@@ -1,4 +1,4 @@
-/* Reset básico para o site de moda */
+/* Reset básico */
 * {
     margin: 0;
     padding: 0;
@@ -6,42 +6,55 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1,6;
-    background-color: #fafafa;
-    color: #333;
-    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
-/* Navegação Única (Item 6 do seu checklist) */
+/* HEADER */
+header {
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+
 nav {
-    background-color: #222;
-    padding: 1rem;
+     margin-top: 10px;
 }
 
 nav a {
     color: white;
+    margin-right: 15px;
     text-decoration: none;
-    margin: 0 15px;
-    font-weight: bold;
-    padding: 5px 10px;
 }
 
-/* ---TEMA DA AULA: PSEUDOCLASSES ---*/
-
-/* Quando o mouse passa no link */
-nav a:hover {
-    color: #ff69b4; /* Rosa Fashion */
-    border:-bottom: 2px solid #ff69b4;
+/* CONTEÚDO */
+main {
+    padding: 20px;
 }
 
-/* Quando o link é clicado */
-nav a:active {
+section {
+    margin-bottom: 20px;
+}
+
+/* FOOTER */
+footer {
+     background-color: green;
     color: white;
+    text-align: center;
+    padding: 10px;
 }
 
-/* Estilizando o primeiro parágrafo de cada seção */
-section p:first-of-type {
-    font-weight: bold;
-    color: #555;
+/* 🔥 RESPONSIVIDADE */
+@media (max-width: 600px) {
+    header {
+        text-align: center;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav a {
+        margin: 5px 0;
+    }
 }
