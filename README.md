@@ -9,7 +9,7 @@ Repositório para organizar minha evolução durante a faculdade.
 - **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula02.html)
 - **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula03.html)
 - **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula04.html)
-- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade. [Ver projeto]()
+- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula05.html)
 
 ## 🚀 Tecnologias
 - HTML5
