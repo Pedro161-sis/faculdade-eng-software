@@ -17,7 +17,9 @@ Repositório para organizar minha evolução durante a faculdade.
 - HTML5
 - CSS3
 
-##   Preparação do Ambiente de Desenvolvimento Web Módulo 2  
+##   Layouts Responsivos(Construção de Layouts e Templates Responsivos) Módulo 2
+
+- **Módulo 2 - Aula 01:** Preparando o Ambiente de Desenvolvimento.
 
 ##  🎯 Objetivo
 Garantir que toda a equipe utilize um ambiente padronizado para evitar problemas de compatibilidade e facilitar a colaboração no desenvolvimento da aplicação web.
@@ -72,3 +74,5 @@ Garantir que toda a equipe utilize um ambiente padronizado para evitar problemas
 ### Clonar Repositório
 ```bash
 git clone URL_DO_PROJETO
+
+- **Módulo 2 - Aula 2:** Frond-end baseado em framework.[Ver projeto] (https://pedro161-sis.github.io/faculdade-eng-software/MODULO/aula02.html)
