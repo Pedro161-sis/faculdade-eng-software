@@ -74,5 +74,5 @@ Garantir que toda a equipe utilize um ambiente padronizado para evitar problemas
 ### Clonar Repositório
 ```bash
 git clone URL_DO_PROJETO
-
-- **Módulo 2 - Aula 2:** Frond-end baseado em framework.[Ver projeto] (https://pedro161-sis.github.io/faculdade-eng-software/MODULO/aula02.html)
+```
+- **Módulo 2 - Aula 2:** Frond-end baseado em framework. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula02.html)
