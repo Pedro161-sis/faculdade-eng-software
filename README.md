@@ -4,22 +4,22 @@ Repositório para organizar minha evolução durante a faculdade.
 
 ## 💻 O que estou aprendendo agora
 
-##   Desenvolvimento Web Responsivo Módulo 1
+##   Desenvolvimento Web Responsivo Unidade 1
 
-- **Módulo 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula01.html)
+- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula01.html)
 - Entendendo como estilizar páginas e adaptar para diferentes tamanhos de tela (celular, tablet e PC).
-- **Módulo 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula02.html)
-- **Módulo 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula03.html)
-- **Módulo 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula04.html)
-- **Módulo 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula05.html)
+- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula02.html)
+- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula03.html)
+- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula04.html)
+- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula05.html)
 
 ## 🚀 Tecnologias
 - HTML5
 - CSS3
 
-##   Layouts Responsivos(Construção de Layouts e Templates Responsivos) Módulo 2
+##   Layouts Responsivos(Construção de Layouts e Templates Responsivos) Unidade 2
 
-- **Módulo 2 - Aula 01:** Preparando o Ambiente de Desenvolvimento.
+- **Unidade 2 - Aula 01:** Preparando o Ambiente de Desenvolvimento.
 
 ##  🎯 Objetivo
 Garantir que toda a equipe utilize um ambiente padronizado para evitar problemas de compatibilidade e facilitar a colaboração no desenvolvimento da aplicação web.
@@ -75,7 +75,8 @@ Garantir que toda a equipe utilize um ambiente padronizado para evitar problemas
 ```bash
 git clone URL_DO_PROJETO
 ```
-- **Módulo 2 - Aula 2:** Frond-end baseado em framework. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula02.html)
-- **Módulo 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver projetos](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula03.html)
-- **Módulo 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver projetos](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula04.html)
-- **Módulo 2 - Aula 5:** Projeto menu horizontal com Angular, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/menu-horizontal/)
+- **Unidade 2 - Aula 2:** Frond-end baseado em framework. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula02.html)
+- **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver projetos](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula03.html)
+- **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver projetos](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula04.html)
+- **Unidade 2 - Aula 5:** Projeto menu horizontal com Angular, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software)
+- **Unidade 2 - ** Trabalho de Encerramento da Unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/layout-bootstrap/index.html)
