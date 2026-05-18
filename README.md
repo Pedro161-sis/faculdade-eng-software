@@ -79,4 +79,4 @@ git clone URL_DO_PROJETO
 - **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver projetos](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula03.html)
 - **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver projetos](https://pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula04.html)
 - **Unidade 2 - Aula 5:** Projeto menu horizontal com Angular, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software)
-- **Unidade 2 - ** Trabalho de Encerramento da Unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/layout-bootstrap/index.html)
+- **Unidade 2 -** Trabalho de Encerramento da Unidade. [Ver projeto](./layout-bootstrap/Proposta%20de%20projeto.pdf)
