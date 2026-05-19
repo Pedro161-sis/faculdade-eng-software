@@ -6,12 +6,12 @@ Repositório para organizar minha evolução durante a faculdade.
 
 ##   Desenvolvimento Web Responsivo Unidade 1
 
-- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/css/)
+- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/)
 - Entendendo como estilizar páginas e adaptar para diferentes tamanhos de tela (celular, tablet e PC).
-- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/css/aula02.html)
-- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/css/aula03.html)
-- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/css/aula04.html)
-- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/css/aula05.html)
+- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula02.html)
+- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula03.html)
+- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula04.html)
+- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software/CSS/aula05.html)
 
 ## 🚀 Tecnologias
 - HTML5
