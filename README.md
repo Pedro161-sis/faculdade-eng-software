@@ -75,6 +75,10 @@ Garantir que toda a equipe utilize um ambiente padronizado para evitar problemas
 ```bash
 git clone URL_DO_PROJETO
 ```
+
+---
+
+
 - **Unidade 2 - Aula 2:** Frond-end baseado em framework. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO2)
 - **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO2)
 - **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO2)
