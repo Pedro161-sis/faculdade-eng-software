@@ -6,7 +6,7 @@ Repositório para organizar minha evolução durante a faculdade.
 
 ##   Desenvolvimento Web Responsivo Unidade 1
 
-- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/docs/aula01.html)
+- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/aula01.html)
 - Entendendo como estilizar páginas e adaptar para diferentes tamanhos de tela (celular, tablet e PC).
 - **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/docs/aula02.html)
 - **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSSdocs/aula03.html)
