@@ -6,12 +6,12 @@ Repositório para organizar minha evolução durante a faculdade.
 
 ##   Desenvolvimento Web Responsivo Unidade 1
 
-- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/CSS)
+- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/docs/aula01.html)
 - Entendendo como estilizar páginas e adaptar para diferentes tamanhos de tela (celular, tablet e PC).
-- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/CSS)
-- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/CSS)
-- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/CSS)
-- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade.[Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/CSS)
+- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/docs/aula02.html)
+- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSSdocs/aula03.html)
+- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/docs/aula04)
+- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade.[Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/CSS/docs/aula05)
 
 ## 🚀 Tecnologias
 - HTML5
@@ -79,12 +79,12 @@ git clone URL_DO_PROJETO
 ---
 
 
-- **Unidade 2 - Aula 2:** Frond-end baseado em framework. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO2)
-- **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO2)
-- **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO2)
-- **Unidade 2 - Aula 5:** Projeto menu horizontal com Angular, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io/faculdade-eng-software)
+- **Unidade 2 - Aula 2:** Frond-end baseado em framework. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/MODULO2/aula02.html)
+- **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/MODULO2/aula03.html)
+- **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/MODULO2/aula04.html)
+- **Unidade 2 - Aula 5:** Projeto menu horizontal com Angular, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io)
 - **Unidade 2 -** Trabalho de Encerramento da Unidade. [Ver PDF](https://github.com/Pedro161-sis/faculdade-eng-software/blob/main/layout-bootstrap/Proposta%20de%20projeto.pdf)
 
 ## Contrução de Frond-End Baseado em Framweork Unidade 3
 
-- **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver código](https://github.com/Pedro161-sis/faculdade-eng-software/tree/main/MODULO3)
+- **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/MODULO3/aula1.html)
