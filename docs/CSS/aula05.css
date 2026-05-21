@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex; /* Grante que fiquem lado a lado */
+    height: 100vh;
+}
+
+.blue-block, .red-block  {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: clamp(1.5rem, 4vw, 3rem); /* Faz a fonte "encolher" se a tela diminuir, evitando que o texto transborde o bloco azul ou vermelho */
+    font-family: Arial, sans-serif;
+    transition: flex 0.5s ease-in-out, font-size 0.5s ease-in-out;
+    overflow: hidden; /* Evita que o texto ultrapasse o contêiner */
+    text-align: center;  /* Centraliza o texto horizontalmente */
+    padding: 20px;
+}
+
+.blue-block {
+    background-color: blue;
+}
+
+.red-block {
+    background-color: red;
+}
+@media screen and (max-width: 1000px) {
+    .container {
+        flex-direction: column;
+    }
+    .blue-block, .red-block {
+        font-size: 2rem;
+    }
+}
