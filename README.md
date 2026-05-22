@@ -88,3 +88,4 @@ git clone URL_DO_PROJETO
 ## Contrução de Frond-End Baseado em Framweork Unidade 3
 
 - **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula1.html)
+- **Unidade 3 - Aula 2:** Criação de componentes responsivos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula2.html)
