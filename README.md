@@ -89,3 +89,6 @@ git clone URL_DO_PROJETO
 
 - **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula1.html)
 - **Unidade 3 - Aula 2:** Criação de componentes responsivos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula2.html)
+- **Unidade 3 - Aula 3:** Preparando Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula3.html)
+- **Unidade 3 - Aula 4:** Criação e controle de Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula4.html)
+- **Unidade 3 - Aula 5:** Encerramento da Unidade. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula5.html)
