@@ -92,3 +92,9 @@ git clone URL_DO_PROJETO
 - **Unidade 3 - Aula 3:** Preparando Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula3.html)
 - **Unidade 3 - Aula 4:** Criação e controle de Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula4.html)
 - **Unidade 3 - Aula 5:** Encerramento da Unidade. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula5.html)
+
+## Interações Web entre Navegador e Servidor Web Unidade 4
+
+## Otimização e Desempenho Unidade 4
+
+- **Unidade 4 - Aula 1:** Teste de Desempenho com WebPageTest. [Ver relatório técnico](MODULO3/aula1_performance.md)
