@@ -101,3 +101,4 @@ git clone URL_DO_PROJETO
 - **Unidade 4 - Aula 2:** Depuração e Teste de Aplicativos Responsivos (CSS Grid). [Ver projeto](MODULO4/aula2.html)
 - **Unidade 4 - Aula 3:** Garantindo o Suporte do Navegador (Modernizr). [Ver projeto](MODULO4/aula3.html)
 - **Unidade 4 - Aula 4:** Otimização de Desempenho Performance Server-Side (Cache e Arquivos .htaccess). [Ver arquivo de configuração](MODULO4/.htaccess)
+- **Unidade 4 - Aula 4 (Extra):** Exemplo de Criação de Página Web (E-commerce). [Ver projeto](MODULO4/aula5.html)
