@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificação de Animações CSS</title>
+    <!-- Carrega a biblioteca Modernizr via CDN externa -->
+    <script src="https://cloudflare.com"></script>
+</head>
+<body>
+
+    <script>
+        // Condicional que verifica se o navegador suporta animações em CSS
+        if (Modernizr.cssanimations) {
+            console.log("Animações CSS são suportadas.");
+        } else {
+            console.log("Animações CSS não são suportadas.");
+        }
+    </script>
+</body>
+</html>
