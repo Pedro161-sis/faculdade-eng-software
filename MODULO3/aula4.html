@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrossel Responsivo - AgroTech</title>
+    <link rel="stylesheet" href="aula4.css">
+</head>
+<body>
+
+    <div class="carousel-container">
+        <div class="carousel">
+            <div class="carousel-slide">
+                <img src="imagem1.jpg" alt="Produto 1">
+            </div>
+            <div class="carousel-slide">
+                <img src="imagem2.jpg" alt="Produto 2">
+            </div>
+            <div class="carousel-slide">
+                <img src="imagem3.jpg" alt="Produto 3">
+            </div>
+        </div>
+
+        <!-- Setas de navegação esquerda e direita -->
+        <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+        <a class="next" onclick="changeSlide(1)">&#10095;</a>
+
+        <!-- Indicadores de pontos (bolinhas) -->
+        <div class="dots">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
+    </div>
+
+    <!-- Script de controle dinâmico -->
+    <script src="aula4.js"></script>
+</body>
+</html>
