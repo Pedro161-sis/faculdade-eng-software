@@ -87,18 +87,18 @@ git clone URL_DO_PROJETO
 
 ## Contrução de Frond-End Baseado em Framweork Unidade 3
 
-- **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula1.html)
-- **Unidade 3 - Aula 2:** Criação de componentes responsivos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula2.html)
-- **Unidade 3 - Aula 3:** Preparando Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula3.html)
-- **Unidade 3 - Aula 4:** Criação e controle de Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula4.html)
-- **Unidade 3 - Aula 5:** Encerramento da Unidade. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula5.html)
+- **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade3/aula1.html)
+- **Unidade 3 - Aula 2:** Criação de componentes responsivos. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade3/aula2.html)
+- **Unidade 3 - Aula 3:** Preparando Mídias. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade3/aula3.html)
+- **Unidade 3 - Aula 4:** Criação e controle de Mídias. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade3/aula4.html)
+- **Unidade 3 - Aula 5:** Encerramento da Unidade. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade3/aula5.html)
 
 ## Interações Web entre Navegador e Servidor Web Unidade 4
 
 ## Otimização e Desempenho Unidade 4
 
 - **Unidade 4 - Aula 1:** Teste de Desempenho com WebPageTest. [Ver relatório técnico](Unidade4/aula1_performance.md)
-- **Unidade 4 - Aula 2:** Depuração e Teste de Aplicativos Responsivos (CSS Grid). [Ver projeto](Unidade4/aula2.html)
-- **Unidade 4 - Aula 3:** Garantindo o Suporte do Navegador (Modernizr). [Ver projeto](Unidade4/aula3.html)
-- **Unidade 4 - Aula 4:** Otimização de Desempenho Performance Server-Side (Cache e Arquivos .htaccess). [Ver arquivo de configuração](Unidade4/.htaccess)
-- **Unidade 4 - Aula 5 (Extra):** Exemplo de Criação de Página Web (E-commerce). [Ver projeto](Unidade4/aula5.html)
+- **Unidade 4 - Aula 2:** Depuração e Teste de Aplicativos Responsivos (CSS Grid). [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade4/aula2.html)
+- **Unidade 4 - Aula 3:** Garantindo o Suporte do Navegador (Modernizr). [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade4/aula3.html)
+- **Unidade 4 - Aula 4:** Otimização de Desempenho Performance Server-Side (Cache e Arquivos .htaccess). [Ver arquivo de configuração](faculdade-eng-software/Unidade4/.htaccess)
+- **Unidade 4 - Aula 5 (Extra):** Exemplo de Criação de Página Web (E-commerce). [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade4/aula5.html)
