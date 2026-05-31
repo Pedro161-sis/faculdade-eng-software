@@ -6,12 +6,12 @@ Repositório para organizar minha evolução durante a faculdade.
 
 ##   Desenvolvimento Web Responsivo Unidade 1
 
-- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/CSS/docs/aula01.html)
+- **Unidade 1 - Aula 1:** Introdução ao CSS. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade1/aula01.html)
 - Entendendo como estilizar páginas e adaptar para diferentes tamanhos de tela (celular, tablet e PC).
-- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/CSS/docs/aula02.html)
-- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/CSSdocs/aula03.html)
-- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/CSS/docs/aula04.html)
-- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade.[Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/CSS/docs/aula05.html)
+- **Unidade 1 - Aula 2:** Pseudoclasses e suas funcionalidades. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade1/aula02.html)
+- **Unidade 1 - Aula 3:** Princípios do Web design responsivo. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade1/aula03.html)
+- **Unidade 1 - Aula 4:** Mobile-first e ferramentas de wireframe. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade1/aula04.html)
+- **Unidade 1 - Aula 5:** Praticando tudo aprendido nessa unidade, encerramento da unidade.[Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade1/aula05.html)
 
 ## 🚀 Tecnologias
 - HTML5
@@ -79,26 +79,26 @@ git clone URL_DO_PROJETO
 ---
 
 
-- **Unidade 2 - Aula 2:** Frond-end baseado em framework. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/MODULO2/aula02.html)
-- **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO2/aula03.html)
-- **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver projeto](https://github.com/Pedro161-sis/faculdade-eng-software/MODULO2/aula04.html)
+- **Unidade 2 - Aula 2:** Frond-end baseado em framework. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade2/aula02.html)
+- **Unidade 2 - Aula 3:** Frameworks e Bibliotecas Webs Front-end. [Ver projeto](https://Pedro161-sis.github.io/faculdade-eng-software/Unidade2/aula03.html)
+- **Unidade 2 - Aula 4:** Layouts com Frameworks e Bibliotecas Frond-end. [Ver projeto](https://Pedro161-sis.github./faculdade-eng-software/Unidade2/aula04.html)
 - **Unidade 2 - Aula 5:** Projeto menu horizontal com Angular, encerramento da unidade. [Ver projeto](https://pedro161-sis.github.io)
 - **Unidade 2 -** Trabalho de Encerramento da Unidade. [Ver PDF](https://github.io/Pedro161-sis/faculdade-eng-software/blob/main/layout-bootstrap/Proposta%20de%20projeto.pdf)
 
 ## Contrução de Frond-End Baseado em Framweork Unidade 3
 
-- **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula1.html)
-- **Unidade 3 - Aula 2:** Criação de componentes responsivos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula2.html)
-- **Unidade 3 - Aula 3:** Preparando Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula3.html)
-- **Unidade 3 - Aula 4:** Criação e controle de Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula4.html)
-- **Unidade 3 - Aula 5:** Encerramento da Unidade. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/MODULO3/aula5.html)
+- **Unidade 3 - Aula 1:** Projetando Layout fluídos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula1.html)
+- **Unidade 3 - Aula 2:** Criação de componentes responsivos. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula2.html)
+- **Unidade 3 - Aula 3:** Preparando Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula3.html)
+- **Unidade 3 - Aula 4:** Criação e controle de Mídias. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula4.html)
+- **Unidade 3 - Aula 5:** Encerramento da Unidade. [Ver projeto](https://github.io/Pedro161-sis/faculdade-eng-software/Unidade3/aula5.html)
 
 ## Interações Web entre Navegador e Servidor Web Unidade 4
 
 ## Otimização e Desempenho Unidade 4
 
-- **Unidade 4 - Aula 1:** Teste de Desempenho com WebPageTest. [Ver relatório técnico](MODULO3/aula1_performance.md)
-- **Unidade 4 - Aula 2:** Depuração e Teste de Aplicativos Responsivos (CSS Grid). [Ver projeto](MODULO4/aula2.html)
-- **Unidade 4 - Aula 3:** Garantindo o Suporte do Navegador (Modernizr). [Ver projeto](MODULO4/aula3.html)
-- **Unidade 4 - Aula 4:** Otimização de Desempenho Performance Server-Side (Cache e Arquivos .htaccess). [Ver arquivo de configuração](MODULO4/.htaccess)
-- **Unidade 4 - Aula 5 (Extra):** Exemplo de Criação de Página Web (E-commerce). [Ver projeto](MODULO4/aula5.html)
+- **Unidade 4 - Aula 1:** Teste de Desempenho com WebPageTest. [Ver relatório técnico](Unidade4/aula1_performance.md)
+- **Unidade 4 - Aula 2:** Depuração e Teste de Aplicativos Responsivos (CSS Grid). [Ver projeto](Unidade4/aula2.html)
+- **Unidade 4 - Aula 3:** Garantindo o Suporte do Navegador (Modernizr). [Ver projeto](Unidade4/aula3.html)
+- **Unidade 4 - Aula 4:** Otimização de Desempenho Performance Server-Side (Cache e Arquivos .htaccess). [Ver arquivo de configuração](Unidade4/.htaccess)
+- **Unidade 4 - Aula 5 (Extra):** Exemplo de Criação de Página Web (E-commerce). [Ver projeto](Unidade4/aula5.html)
